@@ -1,0 +1,3 @@
+[submodule "proffy-server-deploy"]
+	path = proffy-server-deploy
+	url = https://github.com/mirellagadelha/proffy-server-deploy
